@@ -1,0 +1,8 @@
+strContent = File by tháp chủ,Địt mẹ mod vip aov
+hasCancelBtn = true
+onConfirm = nil
+onCancel = nil
+confirmStr = Tháp Chủ
+cancelStr = Cu teo
+titleStr = Tháp Chủ Ed
+isShowCloseBtn = true
