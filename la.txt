@@ -1,8 +1,8 @@
-strContent = File mod bởi <color=#FF0000><i><b>Tháp Chủ Ed</b></i></color>\nNhững thằng ăn cắp mod: Mod vip aov\nẤn <color=#FFFF00><i>Discord</i></color> để vào discord share file chính chủ.
+strContent = File mod bởi <color=#FF0000><i><b>Tháp Chủ Ed</b></i></color>\n<color=#FF0000>Những thằng ăn cắp mod: Mod vip aov</color>\nẤn <color=#0A1128><i>Discord</i></color> để vào discord share file chính chủ\nẤn <color=#0A1128><i>TikTok</i></color> để vào TikTok của tháp chủ.
 hasCancelBtn = true
 onConfirm = https://discord.gg/SYQ3K2T6jq
 onCancel = https://www.tiktok.com/@nhinnhinquanquene?_r=1&_t=ZS-9BIHPGbhry0
-confirmStr = <color=#FF0000>Discord</color>
-cancelStr = <color=#>Tik Tok</color>
+confirmStr = <color=#0A1128>Discord</color>
+cancelStr = <color=#0A1128>Tik Tok</color>
 titleStr = <color=#FF0000>Tháp Chủ Ed</color>
 isShowCloseBtn = true
