@@ -1,8 +1,8 @@
 strContent = <color=#00F2EA>File mod bởi:</color> <color=#FF3030><i><b>Tháp Chủ Ed</b></i></color>\n<color=#FFEB38><b>NHỮNG THẰNG ĂN CẮP MOD: MOD VIP AOV</b></color>\nẤn <color=#5865F2><i><b>Discord</b></i></color> để vào discord share file chính chủ\nẤn <color=#00F2EA><i><b>TikTok</b></i></color> để vào TikTok của tháp chủ.
-hasCancelBtn = false
-onConfirm = function() CS.UnityEngine.Application.Quit() end
+hasCancelBtn = true
+onConfirm = https://discord.gg/SYQ3K2T6jq
 onCancel = https://www.tiktok.com/@nhinnhinquanquene?_r=1&_t=ZS-9BIHPGbhry0
 confirmStr = <color=#5865F2><b>Discord</b></color>
 cancelStr = <color=#00F2EA><b>Tik Tok</b></color>
 titleStr = <color=#FF3030><b>Tháp Chủ Ed</b></color>
-isShowCloseBtn = false
+isShowCloseBtn = true
