@@ -1,4 +1,4 @@
-strContent = <color=#00A890>File mod bởi:</color> <color=#FF5518><i><b>AriShareFile</b></i></color>
+strContent = <color=#00A890>File mod share bởi:</color> <color=#FF5518><i><b>AriShareFile</b></i></color>
 hasCancelBtn = false
 onConfirm = https://youtube.com/@arisharefile?si=ibc9DY7zLPiCh51h
 onCancel = https://www.tiktok.com/@nhinnhinquanquene?_r=1&_t=ZS-9BIHPGbhry0
