@@ -4,5 +4,5 @@ onConfirm = https://discord.gg/SYQ3K2T6jq
 onCancel = https://www.tiktok.com/@nhinnhinquanquene?_r=1&_t=ZS-9BIHPGbhry0
 confirmStr = <color=#5865F2><b>Discord</b></color>
 cancelStr = <color=#00F2EA><b>Tik Tok</b></color>
-titleStr = <color=#FF3030><b>Tháp Chủ Ed</b></color>
+titleStr = <color=#FF3030><b>Mod By Team 4T4Đ</b></color>
 isShowCloseBtn = true
