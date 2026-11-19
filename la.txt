@@ -1,4 +1,4 @@
-strContent = <color=#00F2EA><i><b>Bản mod được làm bởi Team 4T4Đ</b></i></color>\n<color=#FFEB38><b><i>- Tờ Hưng</i></b></color>\n<color=#5865F2><i><b>- Nguyên Leaker</b></i></color>\n<color=#EB3734><i><b>- Tháp Chủ Ed</b></i></color>\n<color=#0FF2FA><i><b>- Dũng</b></i></color>\n<color=#B187F5><i><b>- Person</b></i></color>\n<a href="https://discord.gg/SYQ3K2T6jq"><color=#5865F2><u><b>TEST LINK DISCORD</b></u></color></a>
+strContent = <color=#00F2EA><i><b>Bản mod được làm bởi Team 4T4Đ</b></i></color>\n<color=#FFEB38><b><i>- Tờ Hưng</i></b></color>\n<color=#5865F2><i><b>- Nguyên Leaker</b></i></color>\n<color=#EB3734><i><b>- Tháp Chủ Ed</b></i></color>\n<color=#0FF2FA><i><b>- Dũng</b></i></color>\n<color=#B187F5><i><b>- Person</b></i></color>
 hasCancelBtn = true
 onConfirm = https://discord.gg/SYQ3K2T6jq
 onCancel = https://www.tiktok.com/@nhinnhinquanquene?_r=1&_t=ZS-9BIHPGbhry0
